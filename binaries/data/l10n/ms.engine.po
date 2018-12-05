@@ -1,0 +1,163 @@
+# Translation template for Pyrogenesis.
+# Copyright © 2014 Wildfire Games
+# This file is distributed under the same license as the Pyrogenesis project.
+# 
+# Translators:
+# abuyop <abuyop@gmail.com>, 2013-2016
+# Ahmad Farhan <farhanfuad@outlook.my>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2016-03-12 18:52+0100\n"
+"PO-Revision-Date: 2016-02-10 09:27+0000\n"
+"Last-Translator: abuyop <abuyop@gmail.com>\n"
+"Language-Team: Malay (http://www.transifex.com/wildfire-games/0ad/language/ms/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Translation: First item is a date and time, item between parenthesis is the
+#. Subversion revision number of the current build.
+#: gui/scripting/ScriptFunctions.cpp:823
+#, c-format
+msgid "%s (custom build)"
+msgstr "%s (binaan suai)"
+
+#. Translation: First item is a date and time, item between parenthesis is the
+#. Subversion revision number of the current build.
+#: gui/scripting/ScriptFunctions.cpp:828
+#, c-format
+msgid "%s (%ls)"
+msgstr "%s (%ls)"
+
+#: gui/scripting/ScriptFunctions.cpp:849
+msgid "custom build"
+msgstr "binaan suai"
+
+#: i18n/L10n.cpp:252
+msgid "Long strings"
+msgstr "Rentetan panjang"
+
+#: lobby/XmppClient.cpp:750
+msgid "unknown subtype (see logs)"
+msgstr "subjenis tidak diketahui (lihat log)"
+
+#: lobby/XmppClient.cpp:1001 lobby/XmppClient.cpp:1045
+#: lobby/XmppClient.cpp:1084
+msgid "Error"
+msgstr "Ralat"
+
+#: lobby/XmppClient.cpp:1004 lobby/XmppClient.cpp:1048
+msgid "No error"
+msgstr "Tiada ralat"
+
+#: lobby/XmppClient.cpp:1006
+msgid "Player already logged in"
+msgstr "Pemain sudah mendaftar masuk"
+
+#: lobby/XmppClient.cpp:1008
+msgid "Forbidden"
+msgstr "Dilarang"
+
+#: lobby/XmppClient.cpp:1010
+msgid "Internal server error"
+msgstr "Ralat pelayan dalaman"
+
+#: lobby/XmppClient.cpp:1014
+msgid "Not allowed"
+msgstr "Tidak dibenarkan"
+
+#: lobby/XmppClient.cpp:1015
+msgid "Not authorized"
+msgstr "Tidak diizinkan"
+
+#: lobby/XmppClient.cpp:1018
+msgid "Recipient temporarily unavailable"
+msgstr "Penerima buat masa ini tidak tersedia"
+
+#: lobby/XmppClient.cpp:1020
+msgid "Registration required"
+msgstr "Pendaftaran diperlukan"
+
+#: lobby/XmppClient.cpp:1024
+msgid "Service unavailable"
+msgstr "Perkhidmatan tidak tersedia"
+
+#: lobby/XmppClient.cpp:1029 lobby/XmppClient.cpp:1068
+#: lobby/XmppClient.cpp:1097
+msgid "Unknown error"
+msgstr "Ralat tidak diketahui"
+
+#: lobby/XmppClient.cpp:1049
+msgid "Stream error"
+msgstr "Ralat strim"
+
+#: lobby/XmppClient.cpp:1050
+msgid "The incoming stream version is unsupported"
+msgstr "Versi strim masuk tidak disokong"
+
+#: lobby/XmppClient.cpp:1051
+msgid "The stream has been closed by the server"
+msgstr "Strim telah ditutup oleh pelayan"
+
+#: lobby/XmppClient.cpp:1055
+msgid "An I/O error occured"
+msgstr "Satu ralat I/O telah berlaku"
+
+#: lobby/XmppClient.cpp:1057
+msgid "The connection was refused by the server"
+msgstr "Sambungan telah dinafi oleh pelayan"
+
+#: lobby/XmppClient.cpp:1058
+msgid "Resolving the server's hostname failed"
+msgstr "Peleraian nama hos pelayan telah gagal"
+
+#: lobby/XmppClient.cpp:1059
+msgid "This system is out of memory"
+msgstr "Sistem ini telah kehabisan ingatan"
+
+#: lobby/XmppClient.cpp:1061
+msgid ""
+"The server's certificate could not be verified or the TLS handshake did not "
+"complete successfully"
+msgstr "Sijil pelayan tidak disahkan atau jabat tangan TLS tidak berjaya diselesaikan"
+
+#: lobby/XmppClient.cpp:1062
+msgid "The server did not offer required TLS encryption"
+msgstr "Pelayan tidak menawarkan penyulitan TLS yang diperlukan"
+
+#: lobby/XmppClient.cpp:1064
+msgid "Authentication failed. Incorrect password or account does not exist"
+msgstr "Pengesahihan gagal. Kata laluan tidak betul atau akaun tidak wujud"
+
+#: lobby/XmppClient.cpp:1065
+msgid "The user or system requested a disconnect"
+msgstr "Pengguna atau sistem minta diputuskan"
+
+#: lobby/XmppClient.cpp:1066
+msgid "There is no active connection"
+msgstr "Tiada sambungan aktif"
+
+#: lobby/XmppClient.cpp:1087
+msgid "Success"
+msgstr "Berjaya"
+
+#: lobby/XmppClient.cpp:1088
+msgid "Not all necessary information provided"
+msgstr "Bukan semua maklumat yang perlu disediakan"
+
+#: lobby/XmppClient.cpp:1089
+msgid "Username already exists"
+msgstr "Nama pengguna telah wujud"
+
+#: ps/SavedGame.cpp:133
+#, c-format
+msgid "Saved game to '%s'"
+msgstr "Permainan disimpan ke '%s'"
+
+#: ps/Util.cpp:275 ps/Util.cpp:408
+#, c-format
+msgid "Screenshot written to '%s'"
+msgstr "Cekupan skrin ditulis ke '%s'"

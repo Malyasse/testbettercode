@@ -1,0 +1,672 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright © 2014 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant project.
+# 
+# Translators:
+# Ahmed Saadawi <9597011@gmail.com>, 2015
+# jalal natsheh <jalal-natsheh@hotmail.com>, 2017
+# Odai Alali <odai.massar@gmail.com>, 2015
+# Omar Anwar <omaraglan91@yahoo.com>, 2017
+# Rayan <nitro361@gmail.com>, 2015
+# Safa Alfulaij <safa1996alfulaij@gmail.com>, 2014
+# صفا الفليج <safaalfulaij@hotmail.com>, 2015,2017
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2017-06-04 09:05+0200\n"
+"PO-Revision-Date: 2017-06-12 22:20+0000\n"
+"Last-Translator: Omar Anwar <omaraglan91@yahoo.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/wildfire-games/0ad/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: gui/manual/manual.xml:(caption):12
+msgid "Information"
+msgstr "معلومات"
+
+#: gui/manual/manual.xml:(caption):20
+msgid "Close"
+msgstr "أغلق"
+
+#: gui/manual/manual.xml:(caption):24
+msgid "View Online"
+msgstr "اعرض على الإنترنت"
+
+#: gui/manual/intro.txt:1
+msgid "[font=\"sans-bold-18\"]0 A.D. in-game manual"
+msgstr "[font=\"sans-bold-18\"]كتيّب «0ad» لداخل اللعبة"
+
+#: gui/manual/intro.txt:2
+msgid "[font=\"sans-14\"]"
+msgstr "[font=\"sans-14\"]"
+
+#: gui/manual/intro.txt:3
+msgid ""
+"Thank you for installing 0 A.D.! This page will give a brief overview of the"
+" features available in this incomplete, under-development, alpha version of "
+"the game."
+msgstr "شكرًا لك لتثبيت «0م»! هذه الصّفحة ستعطيك لمحة عامّة ومختصرة عن الميزات المتوفّرة في إصدارة ألفا من هذه اللعبة غير المكتملة والجاري تطويرها."
+
+#: gui/manual/intro.txt:5
+msgid "[font=\"sans-bold-16\"]Graphics settings"
+msgstr "[font=\"sans-bold-16\"]إعدادات الرّسوميّات"
+
+#: gui/manual/intro.txt:6
+msgid ""
+"[font=\"sans-14\"]You can switch between fullscreen and windowed mode by "
+"pressing Alt + Enter. In windowed mode, you can resize the window. If the "
+"game runs too slowly, you can change some settings in the options window: "
+"try disabling the \"HQ Water Effects\" and \"Shadows\" options."
+msgstr "[font=\"sans-14\"]يمكنك التغيير بين وضع الشاشة الكاملة والنافذة بالضغط علي Alt + Enter. في وضع النافذة، يمكنك تغير حجم النافذة. إذا كانت اللعبة تعمل بشكل بطئ للغاية، يمكنك تغيير بعض الإعدادات في نافذة الإعدادات: حاول تعطيل \"تأثيرات المياه\" و \"الظلال\"."
+
+#: gui/manual/intro.txt:8
+msgid "[font=\"sans-bold-16\"]Playing the game"
+msgstr "[font=\"sans-bold-16\"]لعب اللعبة"
+
+#: gui/manual/intro.txt:9
+msgid ""
+"[font=\"sans-14\"]The controls and gameplay should be familiar to players of"
+" traditional RTS games. There are currently a lot of missing features and "
+"poorly-balanced stats – you will probably have to wait until a beta release "
+"for it to work well."
+msgstr "[font=\"sans-14\"]يجب أن يكون التحكم واللعب معتاد عند لاعبي العاب RTS التقليدية. هناك حاليا الكثير من الميزات المفقودة واحصائيات -سيئة متوازنة – سيكون عليك على الأرجح الانتظار حتى إصدار بيتا من أجل أن تلعب بشكل جيد."
+
+#: gui/manual/intro.txt:11
+msgid "Basic controls:"
+msgstr "التّحكّمات الأساسيّة:"
+
+#: gui/manual/intro.txt:12
+msgid "• Left-click to select units."
+msgstr "• النّقر الأيسر لاختيار الوحدات."
+
+#: gui/manual/intro.txt:13
+msgid "• Left-click-and-drag to select groups of units."
+msgstr "• النّقر الأيسر مع السّحب لتحديد مجموعة وحدات."
+
+#: gui/manual/intro.txt:14
+msgid "• Right-click to order units to the target."
+msgstr "• النّقر الأيمن لأمر الوحدات إلى الهدف."
+
+#: gui/manual/intro.txt:15
+msgid "• Arrow keys or WASD keys to move the camera."
+msgstr "• مفاتيح الأسهم أو المفاتيح WASD لتحريك الكاميرا."
+
+#: gui/manual/intro.txt:16
+msgid "• Ctrl + arrow keys, or shift + mouse wheel, to rotate the camera."
+msgstr "• Ctrl + مفاتيح الأسهم، أو shift + عجلة الفأرة لتدوير الكاميرا."
+
+#: gui/manual/intro.txt:17
+msgid "• Mouse wheel, or \"+\" and \"-\" keys, to zoom."
+msgstr "• عجلة الفأرة، أو مفتاحيّ \"+\" و\"-\" للتّقريب والإبعاد."
+
+#: gui/manual/intro.txt:19
+msgid "[font=\"sans-bold-16\"]Modes"
+msgstr "[font=\"sans-bold-16\"]الأوضاع"
+
+#: gui/manual/intro.txt:20
+msgid "[font=\"sans-14\"]The main menu gives access to two game modes:"
+msgstr "[font=\"sans-14\"]يمكنك الوصول إلى وضعيّ ألعاب من القائمة الرّئيسيّة:"
+
+#: gui/manual/intro.txt:22
+msgid ""
+"• [font=\"sans-bold-14\"]Single-player[font=\"sans-14\"] — play a sandbox "
+"game or against one or more AI opponents. The AI/AIs are under development "
+"and may not always be up to date on the new features, but you can test "
+"playing the game against an actual opponent if you aren't able to play with "
+"a human."
+msgstr "• [font=\"sans-bold-14\"]لاعب واحد - تلعب لعبة رمل أو ضد واحد أو أكثر من عدو \"ذكاء اصطناعي\". والذكاء الاصطناعي هو قيد التطوير وربما لا يكون دائما محدث على الميزات الجديدة، ولكن يمكنك تجربة لعب المباراة ضد خصم مصطنع إذا لم تكن قادرا على اللعب مع إنسان."
+
+#: gui/manual/intro.txt:24
+msgid ""
+"• [font=\"sans-bold-14\"]Multiplayer[font=\"sans-14\"] — play against human "
+"opponents over the internet."
+msgstr "• [font=\"sans-bold-14\"]متعدّدة اللاعبون[font=\"sans-14\"] — العب ضدّ منافسين بشر عبر الإنترنت."
+
+#: gui/manual/intro.txt:26
+msgid ""
+"To set up a multiplayer game, one player must select the \"Host game\" "
+"option. The game uses UDP port 20595, so the host must configure their "
+"NAT/firewall/etc to allow this. Other players can then select \"Join game\" "
+"and enter the host's IP address."
+msgstr "لإنشاء لعبة جماعية لابد أن يختار أحد اللاعبين اختيار \"استضف لعبة\". تستخدم اللعبة منفذ UDP رقم 20595، فيجب على المستضيف أن يضبط NAT والجدار الناري وغيره للسماح باستخدامه. بعدها يمكن للاعبين الآخرين اختيار \"انضم إلى لعبة\" وإدخال عنوان IP المستضيف."
+
+#: gui/manual/intro.txt:28
+msgid "[font=\"sans-bold-16\"]Game setup"
+msgstr "[font=\"sans-bold-16\"]إعداد اللعبة"
+
+#: gui/manual/intro.txt:29
+msgid ""
+"[font=\"sans-14\"]In a multiplayer game, only the host can alter the game "
+"setup options."
+msgstr "[font=\"sans-14\"]في الألعاب المتعدّدة اللاعبين، فقط المضيف يمكنه تعديل خيارات إعداد اللعبة."
+
+#: gui/manual/intro.txt:31
+msgid "First, select what type of map you want to play:"
+msgstr "أولا. اختر نوع الخريطه التى تريد ان تلعب فيها:"
+
+#: gui/manual/intro.txt:32
+msgid ""
+"• [font=\"sans-bold-14\"]Random map[font=\"sans-14\"] — A map created "
+"automatically from a script"
+msgstr "• [font=\"sans-bold-14\"]Random map[font=\"sans-14\"] — خريطه أنتجت تلقائيا من ملف برمجى"
+
+#: gui/manual/intro.txt:33
+msgid ""
+"• [font=\"sans-bold-14\"]Scenario map[font=\"sans-14\"] — A map created by "
+"map designers and with fixed civilisations"
+msgstr "• [font=\"sans-bold-14\"]Scenario map[font=\"sans-14\"] — خريطه انتجت بواسطه مصممى الخرائط و مع الحضارات الثابته"
+
+#: gui/manual/intro.txt:34
+msgid ""
+"• [font=\"sans-bold-14\"]Skirmish map[font=\"sans-14\"] — A map created by "
+"map designers but where the civilisations can be chosen"
+msgstr "• [font=\"sans-bold-14\"]Skirmish map[font=\"sans-14\"] — خريطه انتجت بواسطه مصممى الخرائط لكن يمكنك اختيار الحضارة التى تريدها"
+
+#: gui/manual/intro.txt:36
+msgid ""
+"Then the maps can be further filtered. The default maps are generally "
+"playable maps. Naval maps are maps where not all opponents can be reached "
+"over land and demo maps are maps used for testing purposes (generally not "
+"useful to play on). The \"All Maps\" filter shows all maps together in one "
+"list."
+msgstr "أذا  الخرائط يمكن تصنيفها. الخرائط الافتراضيه خرائط للعب عامه. خرائط البحر هى خرائط حيث ليس كل الخصوم يمكنهم الوصول عبر اليابسه و الخرائط التجريبيه هى خرائط بغرض التجربه(غالبا ليست صالحه للعب فيها). تصنيف\"كل الخرائط\" يظهر كل الخرائط مع بعضهم فى قائمه واحده."
+
+#: gui/manual/intro.txt:38
+msgid ""
+"Finally change the settings. For random maps this includes the number of "
+"players, the size of a map, etc. For scenarios you can only select who "
+"controls which player (decides where you start on the map etc). The options "
+"are either a human player, an AI or no player at all (the opponent will just"
+" be idle)."
+msgstr "أخيرا غير الاعدادات. من اجل خرائط عشوائيه من حيث اعداد اللاعبين, حجم الخريطه, ألخ. من السيناريو يمكن فقط اختيار من يتحكم بالاعب(تقرر اين تبدأ على الخريطه ألخ). الخيارات اما أن تكون لاعب بشرى, كمبيوتر او لا لاعب على الاطلاق (الخصم سوف يكون خامل)."
+
+#: gui/manual/intro.txt:40
+msgid "When you are ready to start, click the \"Start game\" button."
+msgstr "عندما تكون جاهزًا للبدء، انقر زرّ \"ابدأ اللعبة\"."
+
+#: gui/manual/intro.txt:42
+msgid "[font=\"sans-bold-16\"]Hotkeys:"
+msgstr "[font=\"sans-bold-16\"]المفاتيح السريعة:"
+
+#: gui/manual/intro.txt:43
+msgid "[font=\"sans-bold-14\"]Program-wide"
+msgstr "[font=\"sans-bold-14\"]برنامج-واسع"
+
+#: gui/manual/intro.txt:44
+msgid "[font=\"sans-14\"]Alt + F4: Close the game, without confirmation"
+msgstr "[font=\"sans-14\"]Alt + F4 لإغلاق اللعبة دون تأكيد"
+
+#: gui/manual/intro.txt:45
+msgid "Alt + Enter: Toggle between fullscreen and windowed"
+msgstr "Alt + Enter للتّبديل بين ملء الشّاشة ووضع النّافذة"
+
+#: gui/manual/intro.txt:46
+msgid "~ or F9: Show/hide console"
+msgstr "~ أو F9 لإظهار المعراض أو إخفائه"
+
+#: gui/manual/intro.txt:47
+msgid "Alt + F: Show/hide frame counter (FPS)"
+msgstr "Alt + F: لإظهار عدّاد الإطارات (إطار/ثا) أو إخفائه"
+
+#: gui/manual/intro.txt:48
+msgid ""
+"F11: Enable/disable real-time profiler (toggles through the displays of "
+"information)"
+msgstr "F11: تمكين / تعطيل المحلل في الوقت الحقيقي (يبدل من خلال عرض المعلومات)"
+
+#: gui/manual/intro.txt:49
+msgid "Shift + F11: Save current profiler data to \"logs/profile.txt\""
+msgstr "Shift + F11: حفظ البيانات المحلل الحالي لـ \"logs/profile.txt\""
+
+#: gui/manual/intro.txt:50
+msgid ""
+"F2: Take screenshot (in .png format, location is displayed in the top left "
+"of the GUI after the file has been saved, and can also be seen in the "
+"console/logs if you miss it there)"
+msgstr "F2 لأخذ لقطة شاشة (بنسق ‎.png، سيُعرض المكان في أعلى يسار الواجهة بعد حفظ الملفّ، ويمكن رؤيته أيضًا في المعراض/السّجلّات في حال لم تجده هناك)"
+
+#: gui/manual/intro.txt:51
+msgid ""
+"Shift + F2: Take huge screenshot (6400px*4800px, in .bmp format, location is"
+" displayed in the top left of the GUI after the file has been saved, and can"
+" also be seen in the console/logs if you miss it there)"
+msgstr "Shift + F2 لأخذ لقطة شاشة ضخمة (6400 بكسل × 4800 بكسل، بنسق ‎.bmp، سيُعرض المكان في أعلى يسار الواجهة بعد حفظ الملفّ، ويمكن رؤيته أيضًا في المعراض/ السّجلّات في حال لم تجده هناك)"
+
+#: gui/manual/intro.txt:53
+msgid "[font=\"sans-bold-14\"]In Game"
+msgstr "[font=\"sans-bold-14\"]داخل اللعبة"
+
+#: gui/manual/intro.txt:54
+msgid ""
+"[font=\"sans-14\"]Double Left Click \\[on unit]: Select all of your units of"
+" the same kind on the screen (even if they're different ranks)"
+msgstr "[font=\"sans-14\"]النّقر باليسار مزدوجًا \\[على وحدة ما] لتحديد كلّ الوحدات التي بنفس النّوع على الشّاشة (حتّى لو اختلفت رتبها)"
+
+#: gui/manual/intro.txt:55
+msgid ""
+"Triple Left Click \\[on unit]: Select all of your units of the same kind and"
+" the same rank on the screen"
+msgstr "النّقر باليسار ثلاث مرّت \\[على وحدة ما] لتحديد كلّ الوحدات بنفس النّوع ونفس الرّتبة على الشّاشة"
+
+#: gui/manual/intro.txt:56
+msgid ""
+"Alt + Double Left Click \\[on unit]: Select all your units of the same kind "
+"on the entire map (even if they have different ranks)"
+msgstr "Alt + النّقر باليسار مزدوجًا \\[على وحدة ما] لتحديد كلّ الوحدات التي بنفس النّوع في كلّ الخريطة (حتّى لو اختلفت رتبها)"
+
+#: gui/manual/intro.txt:57
+msgid ""
+"Alt + Triple Left Click \\[on unit]: Select all your units of the same kind "
+"and rank on the entire map"
+msgstr "Alt + النّقر باليسار ثلاث مرّت \\[على وحدة ما] لتحديد كلّ الوحدات بنفس النّوع ونفس الرّتبة في كلّ الخريطة"
+
+#: gui/manual/intro.txt:58
+msgid "Shift + F5: Quicksave"
+msgstr "Shift + F5 لإجراء حفظ سريع"
+
+#: gui/manual/intro.txt:59
+msgid "Shift + F8: Quickload"
+msgstr "Shift + F8 لإجراء تحميل سريع"
+
+#: gui/manual/intro.txt:60
+msgid "F10: Open/close menu"
+msgstr "F10 لفتح القائمة أو إغلاقها"
+
+#: gui/manual/intro.txt:61
+msgid "F12: Show/hide time elapsed counter"
+msgstr "F12 لإظهار عدّاد الوقت المنقضي أو إخفائه"
+
+#: gui/manual/intro.txt:62
+msgid "ESC: Close all dialogs (chat, menu) or clear selected units"
+msgstr "ESC لإغلاق كلّ الحواريّات (الدّردشة أو القائمة) أو إزالة تحديد الوحدات المحدّدة"
+
+#: gui/manual/intro.txt:63
+msgid "Enter/return: Open/send chat"
+msgstr "Enter أو return لفتح دردشة أو إرسال واحدة"
+
+#: gui/manual/intro.txt:64
+msgid "T: Send team chat"
+msgstr "T لإرسال محادثة إلى الفريق"
+
+#: gui/manual/intro.txt:65
+msgid "L: Chat with the previously selected private chat partner"
+msgstr "L:دردش مع الشات المختار قبل ذلك"
+
+#: gui/manual/intro.txt:66
+msgid "Pause: Pause/resume the game"
+msgstr "Pause لإلباث اللعبة أو استكمالها"
+
+#: gui/manual/intro.txt:67
+msgid "Delete: Delete currently selected units/buildings"
+msgstr "delete: أزاله الوحدات/ المبانى المحدده حاليا"
+
+#: gui/manual/intro.txt:68
+msgid ""
+"Shift + Delete: Delete currently selected units/buildings without "
+"confirmation"
+msgstr "shift + delete: أزاله الوحدات / المبانى المحدده حاليا من غير تأكيد"
+
+#: gui/manual/intro.txt:69
+msgid "/ (ForwardSlash): Select idle fighter"
+msgstr "/(سلاش مأئل): حدد محارب خامل"
+
+#: gui/manual/intro.txt:70
+msgid "Shift + /: add idle fighter to selection"
+msgstr "Shift + /: أضف محارب خامل الى المحددين"
+
+#: gui/manual/intro.txt:71
+msgid "Alt + /: Select all idle fighters"
+msgstr "Alt + /: حدد كل الجنود الخاملين"
+
+#: gui/manual/intro.txt:72
+msgid ". (Period): Select idle worker (including citizen soldiers)"
+msgstr ". (حقبه): حدد عامل خامل (يشمل المحاربين المدنين)"
+
+#: gui/manual/intro.txt:73
+msgid "Shift + .: add idle worker to selection (including citizen soldiers)"
+msgstr "Shift + . : أضف عامل خامل الى التحديد (يشمل المحاربين المدنين)"
+
+#: gui/manual/intro.txt:74
+msgid "Alt + .: Select all idle workers (including citizen soldiers)"
+msgstr "Alt + .: حدد كل العاملين الخاملين (بما فيهم المواطنيين المحاربيين)"
+
+#: gui/manual/intro.txt:75
+msgid "H: Stop (halt) the currently selected units."
+msgstr "H لإيقاف الوحدات المحدّدة حاليًّا"
+
+#: gui/manual/intro.txt:76
+msgid "Y: The unit will go back to work"
+msgstr "Y: الوحده سوف تعود الى العمل"
+
+#: gui/manual/intro.txt:77
+msgid "U: Unload the garrisoned units of the selected buildings"
+msgstr "U: أخرج الوحدات الحاميه من المبنى المحدد"
+
+#: gui/manual/intro.txt:78
+msgid ""
+"Ctrl + 1 (and so on up to Ctrl + 0): Create control group 1 (to 0) from the "
+"selected units/buildings"
+msgstr "Ctrl + 1 (وهكذا حتّى Ctrl + 0) لإنشاء مجموعة تحكّم رقم 1 (حتّى 0) للوحدات المحدّدة"
+
+#: gui/manual/intro.txt:79
+msgid ""
+"1 (and so on up to 0): Select the units/buildings in control group 1 (to 0)"
+msgstr "1 (وهكذا حتّى 0) لتحديد الوحدات أو الأبنية في مجموعة التّحكّم رقم 1 (حتّى 0)"
+
+#: gui/manual/intro.txt:80
+msgid ""
+"Shift + 1 (to 0): Add control group 1 (to 0) to the selected units/buildings"
+msgstr "Shift + 1 (حتّى 0) لإضافة مجموعة التّحكّم رقم 1 (حتّى 0) إلى الوحدات أو الأبنية المحدّدة"
+
+#: gui/manual/intro.txt:81
+msgid ""
+"Ctrl + F5 (and so on up to F8): Mark the current camera position, for "
+"jumping back to later."
+msgstr "Ctrl + F5 (وحتّى F8) لتعليم موقع الكاميرا الحاليّ، وذلك للوصول إليه مستقبلًا."
+
+#: gui/manual/intro.txt:82
+msgid ""
+"F5, F6, F7, and F8: Move the camera to a marked position. Jump back to the "
+"last location if the camera is already over the marked position."
+msgstr "F5، وF6، وF7، وF8 لتحريك الكاميرا إلى موقع معلّم. إن كانت الكاميرا بالفعل على الموقع المعلّم، ستنتقل إلى آخر مكان."
+
+#: gui/manual/intro.txt:83
+msgid ""
+"Z, X, C, V, B, N, M: With training buildings selected. Add the 1st, 2nd, ..."
+" unit shown to the training queue for all the selected buildings."
+msgstr "Z،و X، وC، وV، وB، وN، وM أثناء تحديد مباني التدريب: إضافة الوحدة الظاهرة الأولى، أو الثانية... إلخ إلى طابور التدريب لكل المباني المحددة"
+
+#: gui/manual/intro.txt:84
+msgid ""
+"PageUp with units selected: Highlights the units/buildings guarded by the "
+"selection."
+msgstr "PageUp مع الوحدات المحدده: تسليط الضوء على الوحدات/ المبانى المحدده."
+
+#: gui/manual/intro.txt:85
+msgid ""
+"PageDown with units/buildings selected: Highlights the units guarding the "
+"selection."
+msgstr "PageDown مع الوحدات/ المبانى المحدده: تسليط الضوء للوحدات الحاميه للمحدد."
+
+#: gui/manual/intro.txt:86
+msgid "Tab: See all status bars (which would also show the building progress)"
+msgstr "Tab: إظهار كل التقارير (ايضا سوف يظهر تقدم المبنى)"
+
+#: gui/manual/intro.txt:88
+msgid "[font=\"sans-bold-14\"]Modify mouse action"
+msgstr "[font=\"sans-bold-14\"]تعديل إجراءات الفأرة"
+
+#: gui/manual/intro.txt:89
+msgid "[font=\"sans-14\"]Ctrl + Right Click on building: Garrison"
+msgstr "[font=\"sans-14\"]Ctrl + النّقر باليمين على بناء للاحتماء"
+
+#: gui/manual/intro.txt:90
+msgid "J + Right Click on building: Repair"
+msgstr "J + النقر باليمين على المبانى: تصليح"
+
+#: gui/manual/intro.txt:91
+msgid "P + Right Click: Patrol"
+msgstr "P + النقر باليمين: دوريه"
+
+#: gui/manual/intro.txt:92
+msgid "Shift + Right Click: Queue the move/build/gather/etc order"
+msgstr "Shift + النقر بزر الفأرة الأيمن: أضف إلى الطابور أمر الحركة أو البناء أو الحصاد... إلخ"
+
+#: gui/manual/intro.txt:93
+msgid ""
+"Shift + Left Click when training units: Add units in batches (the batch size"
+" is 5 by default and can be changed in the options)"
+msgstr "Shift + ضغط بالشمال حينما تدرب وحدات: إضافة وحدات في مجموعات (حجم المجموعة هو 5 إفتراضياً ويمكن تغييرة في الإعدادات)"
+
+#: gui/manual/intro.txt:94
+msgid ""
+"Shift + Left Click or Left Drag over unit on map: Add unit to selection"
+msgstr "Shift + النقر باليسار أو السّحب باليسار على وحدة في الخريطة: أضف الوحدة إلى التحديد"
+
+#: gui/manual/intro.txt:95
+msgid ""
+"Ctrl + Left Click or Left Drag over unit on map: Remove unit from selection"
+msgstr "Ctrl + النقر باليسار أو السّحب باليسار على وحدة في الخريطة: أزل الوحدة من التّحديد"
+
+#: gui/manual/intro.txt:96
+msgid "Alt + Left Drag over units on map: Only select military units"
+msgstr "Alt + السحب بزر الفأرة الأيسر على وحدات في الخريطة: تحديد الوحدات العسكرية فقط"
+
+#: gui/manual/intro.txt:97
+msgid "I + Left Drag over units on map: Only select idle units"
+msgstr "I + السحب بزر الفأرة الأيسر فوق الوحدات على الخريطة لاختيار الوحدات الخاملة فقط."
+
+#: gui/manual/intro.txt:98
+msgid ""
+"Ctrl + Left Click on unit/group icon with multiple units selected: Deselect"
+msgstr "Ctrl + النقر بزر الفأرة الأيسر على أيقونة وحدة أو مجموعة أثناء تحديد وحدات متعددة: إلغاء التحديد"
+
+#: gui/manual/intro.txt:99
+msgid ""
+"Right Click with a building/buildings selected: sets a rally point for units"
+" created/ungarrisoned from that building."
+msgstr "النقر بزر الفأرة الأيمن أثناء تحديد مبنى أو مباني: تعيين نقطة تجمع للوحدات الناشئة أو الخارجة من حماية ذلك المبنى"
+
+#: gui/manual/intro.txt:100
+msgid "Ctrl + Right Click with units selected:"
+msgstr "Ctrl + النّقر باليمين على وحدة ما محدّدة:"
+
+#: gui/manual/intro.txt:101
+msgid "    - If the cursor is over an allied structure: Garrison"
+msgstr "- إذا كان المؤشر فوق هيكل الحلفاء: إحتماء"
+
+#: gui/manual/intro.txt:102
+msgid ""
+"    - If the cursor is over a non-allied unit or building: Attack (instead "
+"of capture or gather)"
+msgstr "أن لم يكن المؤشر على الوحدات الغير الحليفة أو المباني: أهجم (بدلاً من الإستيلاء أو تجميع)"
+
+#: gui/manual/intro.txt:103
+msgid ""
+"    - Otherwise: Attack move (by default all enemy units and structures "
+"along the way are targeted, use Ctrl + Q + Right Click to target only "
+"units). "
+msgstr "- الخطة ب: حركة هجوم (إفتراضيا يتم إستهداف جميع وحدات العدو والهياكل على طول الطريق، إستخدم Ctrl + Q + ضغطة يمنى لإستهداف وحدات فقط)."
+
+#: gui/manual/intro.txt:105
+msgid "[font=\"sans-bold-14\"]Overlays"
+msgstr "[font=\"sans-bold-14\"]تراكب"
+
+#: gui/manual/intro.txt:106
+msgid "[font=\"sans-14\"]Alt + G: Hide/show the GUI"
+msgstr "[font=\"sans-14\"]Alt + G لإظهار الواجهة أو إخفائها"
+
+#: gui/manual/intro.txt:107
+msgid "Alt + D: Show/hide developer overlay (with developer options)"
+msgstr "Alt + D:  إظهار / إخفاء تراكب المطور (مع خيارات المطور)"
+
+#: gui/manual/intro.txt:108
+msgid ""
+"Alt + W: Toggle wireframe mode (press once to get wireframes overlaid over "
+"the textured models, twice to get just the wireframes colored by the "
+"textures, thrice to get back to normal textured mode)"
+msgstr "ALT + W: تبديل وضع السلكي (اضغط مرة واحدة للحصول على التأطير السلكي مضافين على نماذج مزخرفة، ومرتين لمجرد الحصول على إطارات شبكية ملونة من القوام، وثلاث مرات للحصول على العودة إلى وضعها الطبيعي وضع محكم)"
+
+#: gui/manual/intro.txt:109
+msgid ""
+"Alt + S: Toggle unit silhouettes (might give a small performance boost)"
+msgstr "ALT + S: تبديل الصور الظلية وحدة (قد تعطي سرعة أداء صغير)"
+
+#: gui/manual/intro.txt:110
+msgid "Alt + Z: Toggle sky"
+msgstr "Alt + Z لتبديل السّماء"
+
+#: gui/manual/intro.txt:111
+msgid ""
+"Alt + V: Toggle aura range visualizations of selected units and structures"
+msgstr "Alt + V: بدل إظهار المجال للوحدات و المباني المحددة"
+
+#: gui/manual/intro.txt:112
+msgid "Alt + B: Toggle heal range visualizations of selected units"
+msgstr "Alt + لا: تبديل بين إظهار مجال المعالجة الوحدات المحددة"
+
+#: gui/manual/intro.txt:114
+msgid "[font=\"sans-bold-14\"]Camera manipulation"
+msgstr "[font=\"sans-bold-14\"]التّعامل مع الكاميرا"
+
+#: gui/manual/intro.txt:115
+msgid "[font=\"sans-14\"]W or \\[up]: Pan screen up"
+msgstr "[font=\"sans-14\"]W أو \\[up]: لتحريك الشاشة للأعلى"
+
+#: gui/manual/intro.txt:116
+msgid "S or \\[down]: Pan screen down"
+msgstr "S أو \\[down]: لتحريك الشاشة للأسفل"
+
+#: gui/manual/intro.txt:117
+msgid "A or \\[left]: Pan screen left"
+msgstr "A أو \\[left]: لتحريك الشاشة لليسار"
+
+#: gui/manual/intro.txt:118
+msgid "D or \\[right]: Pan screen right"
+msgstr "D أو \\[right]: لتحريك الشاشة لليمين"
+
+#: gui/manual/intro.txt:119
+msgid "Ctrl + W or \\[up]: Rotate camera to look upward"
+msgstr "Ctrl + W أو \\[up]: تدوير الكيمرا للنظر للأعلى"
+
+#: gui/manual/intro.txt:120
+msgid "Ctrl + S or \\[down]: Rotate camera to look downward"
+msgstr "Ctrl + S أو \\[down]: تدوير الكيمرا للنظر للأسفل"
+
+#: gui/manual/intro.txt:121
+msgid "Ctrl + A or \\[left]: Rotate camera clockwise around terrain"
+msgstr "Ctrl + A أو \\[left]: تدوير الكيمرا مع عقارب الساعة حول التضاريس"
+
+#: gui/manual/intro.txt:122
+msgid "Ctrl + D or \\[right]: Rotate camera anticlockwise around terrain"
+msgstr "Ctrl + D أو \\[right]: تدوير الكيمرا عكس عقارب الساعة حول التضاريس"
+
+#: gui/manual/intro.txt:123
+msgid "Q: Rotate camera clockwise around terrain"
+msgstr "سؤال: تدوير في اتجاه عقارب الساعة الكاميرا في جميع أنحاء التضاريس"
+
+#: gui/manual/intro.txt:124
+msgid "E: Rotate camera anticlockwise around terrain"
+msgstr "جواب: تدوير عكس اتجاه عقارب الساعة الكاميرا في جميع أنحاء التضاريس"
+
+#: gui/manual/intro.txt:125
+msgid "Shift + Mouse Wheel Rotate Up: Rotate camera clockwise around terrain"
+msgstr "Shift + تدوير عجلة الماوس للأعلى: تدوير مع عقارب الساعة حول التضاريس"
+
+#: gui/manual/intro.txt:126
+msgid ""
+"Shift + Mouse Wheel Rotate Down: Rotate camera anticlockwise around terrain"
+msgstr "Shift + تدوير عجلة الماوس للأسفل: تدوير عكس عقارب الساعة حول التضاريس"
+
+#: gui/manual/intro.txt:127
+msgid ""
+"F: Follow the selected unit (move the camera to stop it from following the "
+"unit)"
+msgstr "اتبع الوحده التي تم اختيارها (حرك الكاميرا لايقاف اتباع الوحده)"
+
+#: gui/manual/intro.txt:128
+msgid "R: Reset camera zoom/orientation"
+msgstr "ٌR: إعادة تعيين الكاميرا التكبير / التوجيه"
+
+#: gui/manual/intro.txt:129
+msgid "+: Zoom in (keep pressed for continuous zoom)"
+msgstr "+: التكبير (الإستمرار في الضغط لإستمرار التكبير)"
+
+#: gui/manual/intro.txt:130
+msgid "-: Zoom out (keep pressed for continuous zoom)"
+msgstr "-: التصغير (الإستمرار في الضغط لإستمرار التصغير)"
+
+#: gui/manual/intro.txt:131
+msgid "Alt + W: Toggle through wireframe modes"
+msgstr "Alt + W: تبديل بواسطة الأسلوب السلكي"
+
+#: gui/manual/intro.txt:132
+msgid "Middle Mouse Button: Keep pressed and move the mouse to pan"
+msgstr "الزر الاوسط للفأره: ابقى ضاغط و حرك الفاره لى تؤشر"
+
+#: gui/manual/intro.txt:134
+msgid "[font=\"sans-bold-14\"]During Building Placement"
+msgstr "[font=\"sans-bold-14\"]أثناء العمل في البناء"
+
+#: gui/manual/intro.txt:135
+msgid "[font=\"sans-14\"]\\[: Rotate building 15 degrees counter-clockwise"
+msgstr "[font=\"sans-14\"]\\[: تدوير بناء 15 درجة عكس عقارب الساعة"
+
+#: gui/manual/intro.txt:136
+msgid "]: Rotate building 15 degrees clockwise"
+msgstr "]: تدوير بناء 15 درجة مع عقارب الساعة"
+
+#: gui/manual/intro.txt:137
+msgid ""
+"Left Drag: Rotate building using mouse (foundation will be placed on mouse "
+"release)"
+msgstr "سحب أيسر: تدوير بناء باستخدام الماوس (سيتم وضع الأساس على تحرير الماوس)"
+
+#: gui/manual/intro.txt:139
+msgid "[font=\"sans-bold-14\"]When loading a saved game"
+msgstr "[font=\"sans-bold-14\"]عند تحميل اللعبة المحفوظة"
+
+#: gui/manual/intro.txt:140
+msgid ""
+"[font=\"sans-14\"]Delete: delete the selected saved game asking confirmation"
+msgstr "[font=\"sans-14\"]حذف: التأكيد عند حذف المخفوظات المحددة"
+
+#: gui/manual/intro.txt:141
+msgid "Shift: do not ask confirmation when deleting a saved game"
+msgstr "تغير: لا تطلب تأكيد عند حذف اللعبة المحفوظة"
+
+#: gui/manual/userreport.txt:1
+msgid ""
+"As a free, open source game, we don't have the resources to test on a wide "
+"range of systems, but we want to provide the best quality experience to as "
+"many players as possible. When you enable automatic feedback, we'll receive "
+"data to help us understand the hardware we should focus on supporting, and "
+"to identify performance problems we should fix."
+msgstr "باعتبارها لعبة حرّة ومفتوحة المصدر، ليس لدينا الموارد الكافية لاختبارها على مختلف الأنظمة، إلّا أنّنا نريد تقديم أفضل تجربة نوعيّة لأكبر عدد ممكن من اللاعبين. عندما تفعّل التّغذية الاسترجاعيّة الآليّة، فسنستقبل بعض البيانات التي تساعدنا على معرفة الأجهزة التي علينا التّركيز على دعمها، والتّعرّف على مشاكل الأداء التي علينا إصلاحها."
+
+#: gui/manual/userreport.txt:3
+msgid "The following data will be sent to our server:"
+msgstr "ستُرسل البيانات الآتية إلى خادومنا:"
+
+#: gui/manual/userreport.txt:5
+msgid ""
+"• A random user ID (stored in %APPDATA%\\0ad\\config\\user.cfg on Windows, "
+"~/.config/0ad/config/user.cfg on Unix), to let us detect repeated reports "
+"from the same user."
+msgstr "• معرّف عشوائيّ للمستخدم (مخزّن في ‎%APPDATA%\\0ad\\config\\user.cfg على وندوز، و ‎~/.config/0ad/config/user.cfg على يونكس)، وذلك لنصنّف التّقارير الآتية من نفس المستخدم."
+
+#: gui/manual/userreport.txt:6
+msgid ""
+"• Game version number and basic build settings (optimisation mode, CPU "
+"architecture, timestamp, compiler version)."
+msgstr "• رقم إصدارة اللعبة وإعدادات البناء الأساسيّة (وضع التّحسين، ومعماريّة المعالج، والطّابع الزّمني وإصدارة المصرّف)."
+
+#: gui/manual/userreport.txt:7
+msgid ""
+"• Hardware details: OS version, graphics driver version, OpenGL "
+"capabilities, screen size, CPU details, RAM size."
+msgstr "• تفاصيل العتاد: إصدارة نظام التّشغيل، وإصدارة مشغّل الرّسوميّات، وإمكانيّات «أوپن‌جي‌إل»، ومقاس الشّاشة، وتفاصيل عن المعالج وحجم الذّاكرة العشوائيّة."
+
+#: gui/manual/userreport.txt:8
+msgid ""
+"• Performance details: a snapshot of timing data a few seconds after you "
+"start a match or change graphics settings."
+msgstr "• تفاصيل الأداء: لقطة من بيانات التّوقيت بعد بضع ثوان من بداية أوّل مبارزة أو تغيير إعدادات الرّسوميّات."
+
+#: gui/manual/userreport.txt:10
+msgid ""
+"The data will only be a few kilobytes each time you run the game, so "
+"bandwidth usage is minimal."
+msgstr "لن تكون البيانات سوى بضعة كيلوبايتات في كلّ مرّة تشغّل فيها اللعبة، ما يعني أنّ استخدام الشّبكة سيكون أقلّ ما يمكن."
+
+#: gui/manual/userreport.txt:12
+msgid ""
+"We will store the submitted data on our server, and may publish statistics "
+"or non-user-identifiable details to help other game developers with similar "
+"questions. We will store the IP address that submitted the data, to help "
+"detect abuse of the service, but will not publish it. The published data can"
+" be seen at http://feedback.wildfiregames.com/"
+msgstr "سنخزّن البيانات المستلمة على خادومنا، وقد ننشر الإحصائيّات أو البيانات (حيث لا يُعرف منها المستخدمون) لمساعدة مطوّري بقيّة الألعاب الذين يواجهون نفس المشاكل. سنخزّن عنوان IP الذي استقبلنا منه البيانات، ما يساعد في معرفة أيّة إساءة للخدمة، إلّا أنّنا لن ننشرها. يمكن مشاهدة البيانات المنشورة على http://feedback.wildfiregames.com/‎"

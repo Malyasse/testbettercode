@@ -1,0 +1,749 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright © 2014 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant project.
+# 
+# Translators:
+# Dominik Novosel <vortextardis@gmail.com>, 2017
+# Ivan Bistrović, 2016-2017
+# Jan Švigir <svigirjan@gmail.com>, 2017
+# Chris_Kay_083, 2015
+# Gifmaster <necrotico31@gmail.com>, 2015
+# Tomislav Kaučić, 2014
+# Tomislav Gregorić, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D.\n"
+"POT-Creation-Date: 2017-06-05 09:02+0200\n"
+"PO-Revision-Date: 2017-06-14 11:05+0000\n"
+"Last-Translator: Ivan Bistrović\n"
+"Language-Team: Croatian (http://www.transifex.com/wildfire-games/0ad/language/hr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#: gui/lobby/lobby.js:44
+msgid "Online"
+msgstr "Na mreži"
+
+#: gui/lobby/lobby.js:45
+msgid "Away"
+msgstr "Odsutan"
+
+#: gui/lobby/lobby.js:46
+msgid "Busy"
+msgstr "Zauzet"
+
+#: gui/lobby/lobby.js:47
+msgid "Offline"
+msgstr "Isključen s mreže"
+
+#: gui/lobby/lobby.js:48
+msgctxt "lobby presence"
+msgid "Unknown"
+msgstr "Nepoznato"
+
+#: gui/lobby/lobby.js:52
+msgid "Moderator"
+msgstr "Moderator"
+
+#: gui/lobby/lobby.js:53
+msgid "Player"
+msgstr "Igrač"
+
+#: gui/lobby/lobby.js:54
+msgid "Muted Player"
+msgstr "Skriveni igrač."
+
+#: gui/lobby/lobby.js:138
+msgid "Disconnected."
+msgstr "Veza prekinuta."
+
+#: gui/lobby/lobby.js:154
+#, javascript-format
+msgid "%(nick)s has joined."
+msgstr "%(nick)s se pridružio/la."
+
+#: gui/lobby/lobby.js:162
+#, javascript-format
+msgid "%(nick)s has left."
+msgstr "%(nick)s je izašao/la."
+
+#: gui/lobby/lobby.js:181
+msgid "You have been muted."
+msgstr "Vi ste skriveni."
+
+#: gui/lobby/lobby.js:182
+#, javascript-format
+msgid "%(nick)s has been muted."
+msgstr "%(nick)s je skriven."
+
+#: gui/lobby/lobby.js:185
+msgid "You are now a moderator."
+msgstr "Vi ste posrednik."
+
+#: gui/lobby/lobby.js:186
+#, javascript-format
+msgid "%(nick)s is now a moderator."
+msgstr "%(nick)s je sada posrednik."
+
+#: gui/lobby/lobby.js:189
+msgid "You have been unmuted."
+msgstr "Vi ste otkriveni."
+
+#: gui/lobby/lobby.js:190
+#, javascript-format
+msgid "%(nick)s has been unmuted."
+msgstr "%(nick)s je otkriven."
+
+#: gui/lobby/lobby.js:192
+msgid "You are not a moderator anymore."
+msgstr "Više niste posrednik."
+
+#: gui/lobby/lobby.js:193
+#, javascript-format
+msgid "%(nick)s is not a moderator anymore."
+msgstr "%(nick)s više nije posrednik."
+
+#: gui/lobby/lobby.js:209
+#, javascript-format
+msgid "%(oldnick)s is now known as %(newnick)s."
+msgstr "%(oldnick)s se sada zove %(newnick)s. "
+
+#: gui/lobby/lobby.js:254
+msgid "Set your state to 'Away'."
+msgstr "Postavite vaš status kao \"Odsutan\"."
+
+#: gui/lobby/lobby.js:261
+msgid "Set your state to 'Online'."
+msgstr "Postavite vaš status kao \"Na mreži\"."
+
+#: gui/lobby/lobby.js:268
+msgid "Kick a specified user from the lobby. Usage: /kick nick reason"
+msgstr "Izbacite određenog korisnika iz predvorja. Uporaba: /kick nick razlog"
+
+#: gui/lobby/lobby.js:276
+msgid "Ban a specified user from the lobby. Usage: /ban nick reason"
+msgstr "Zabranite pristup određenom korisniku u predvorje. Uporaba: /ban nick razlog"
+
+#: gui/lobby/lobby.js:284
+msgid "Show this help."
+msgstr "Prikažite pomoć."
+
+#: gui/lobby/lobby.js:287
+msgid "Chat commands:"
+msgstr "Naredbe za čavrljanje:"
+
+#. Translation: Chat command help format
+#: gui/lobby/lobby.js:291
+#, javascript-format
+msgid "%(command)s - %(description)s"
+msgstr "%(command)s - %(description)s"
+
+#: gui/lobby/lobby.js:304
+msgid "Send a chat message about yourself. Example: /me goes swimming."
+msgstr "Pošaljite kratku poruku o sebi. Primjer: /me Idem na plivanje."
+
+#: gui/lobby/lobby.js:308
+msgid ""
+"Send text as a chat message (even if it starts with slash). Example: /say "
+"/help is a great command."
+msgstr "Pošaljite tekst kao poruku (čak i ako počinje simbolom \"slash\" ( / ). Primjer: /say /help je odlična naredba"
+
+#: gui/lobby/lobby.js:312
+msgid "Clear all chat scrollback."
+msgstr "Očisti povijest čavrljanja."
+
+#: gui/lobby/lobby.js:319
+msgid "Return to the main menu."
+msgstr "Povratak u glavni izbornik."
+
+#: gui/lobby/lobby.js:389
+msgctxt "map size"
+msgid "Any"
+msgstr "Bilo koji"
+
+#: gui/lobby/lobby.js:394
+msgctxt "player number"
+msgid "Any"
+msgstr "Bilo koji"
+
+#: gui/lobby/lobby.js:398 gui/lobby/lobby.js:412
+msgctxt "map"
+msgid "Any"
+msgstr "Bilo koji"
+
+#: gui/lobby/lobby.js:406
+#, javascript-format
+msgctxt "gamelist filter"
+msgid "> %(rating)s"
+msgstr "> %(rating)s"
+
+#: gui/lobby/lobby.js:407
+#, javascript-format
+msgctxt "gamelist filter"
+msgid "< %(rating)s"
+msgstr "< %(rating)s"
+
+#: gui/lobby/lobby.js:480
+msgid "You have been banned from the lobby!"
+msgstr "Ti si banan iz lobija!"
+
+#: gui/lobby/lobby.js:481
+msgid "You have been kicked from the lobby!"
+msgstr "Ti si izbačen iz lobija!"
+
+#: gui/lobby/lobby.js:483
+#, javascript-format
+msgid "%(nick)s has been banned from the lobby."
+msgstr "%(nick)s je zabranjen iz lobija"
+
+#: gui/lobby/lobby.js:484
+#, javascript-format
+msgid "%(nick)s has been kicked from the lobby."
+msgstr "%(nick)s je izbačen iz lobija"
+
+#: gui/lobby/lobby.js:487
+#, javascript-format
+msgctxt "lobby kick"
+msgid "Reason: %(reason)s"
+msgstr "Razlog: %(reason)s"
+
+#: gui/lobby/lobby.js:512
+msgid "BANNED"
+msgstr "ZABRANJEN "
+
+#: gui/lobby/lobby.js:512
+msgid "KICKED"
+msgstr "IZBAČEN"
+
+#: gui/lobby/lobby.js:545
+msgid "Unmark as Buddy"
+msgstr "Odznači kao prijatelja."
+
+#: gui/lobby/lobby.js:545
+msgid "Mark as Buddy"
+msgstr "Označi kao prijatelja."
+
+#: gui/lobby/lobby.js:757 gui/lobby/lobby.js:758 gui/lobby/lobby.js:759
+#: gui/lobby/lobby.js:760 gui/lobby/lobby.js:761 gui/lobby/lobby.js:762
+msgid "N/A"
+msgstr "Nije moguće"
+
+#: gui/lobby/lobby.js:783
+#, javascript-format
+msgid "Player \"%(nick)s\" not found."
+msgstr "Igrač \"%(nick)s\" nije pronađen."
+
+#. Translation: %(time)s is the hour and minute here.
+#: gui/lobby/lobby.js:998
+#, javascript-format
+msgid "Game started at %(time)s"
+msgstr "Igra je počela  %(time)s"
+
+#: gui/lobby/lobby.js:999 gui/lobby/lobby.js:1353
+msgid "HH:mm"
+msgstr "HH:mm"
+
+#: gui/lobby/lobby.js:1003
+#, javascript-format
+msgid "Players: %(current)s/%(total)s"
+msgstr "Igrači: %(current)s/%(total)s"
+
+#: gui/lobby/lobby.js:1045
+msgid "The game has already started. Do you want to join as observer?"
+msgstr "Igra je već počela . Želiš li se pridružiti kao gledatelj?"
+
+#: gui/lobby/lobby.js:1046
+msgid "Confirmation"
+msgstr "Potvrda"
+
+#: gui/lobby/lobby.js:1047
+msgid "No"
+msgstr "Ne"
+
+#: gui/lobby/lobby.js:1047
+msgid "Yes"
+msgstr "Da"
+
+#: gui/lobby/lobby.js:1079
+#, javascript-format
+msgid "This game's address '%(ip)s' does not appear to be valid."
+msgstr "Adresa igre '%(ip)s' nije važeća."
+
+#: gui/lobby/lobby.js:1177
+#, javascript-format
+msgid "The command '%(cmd)s' is not supported."
+msgstr "Naredba '%(cmd)s' nije podržana."
+
+#: gui/lobby/lobby.js:1189
+#, javascript-format
+msgid "The command '%(cmd)s' is restricted to moderators."
+msgstr "Naredba '%(cmd)s' je dostupna samo posrednicima."
+
+#. Translation: IRC message prefix when the sender uses the /me command.
+#: gui/lobby/lobby.js:1260
+#, javascript-format
+msgid "* %(sender)s"
+msgstr "* %(sender)s"
+
+#. Translation: IRC message issued using the ‘/me’ command.
+#: gui/lobby/lobby.js:1265
+#, javascript-format
+msgid "%(sender)s %(action)s"
+msgstr "%(sender)s %(action)s"
+
+#. Translation: IRC message prefix.
+#: gui/lobby/lobby.js:1274 gui/lobby/lobby.js:1295 gui/lobby/lobby.js:1321
+#, javascript-format
+msgid "<%(sender)s>"
+msgstr "<%(sender)s>"
+
+#. Translation: IRC message.
+#: gui/lobby/lobby.js:1279 gui/lobby/lobby.js:1300 gui/lobby/lobby.js:1326
+#, javascript-format
+msgid "%(sender)s %(message)s"
+msgstr "%(sender)s %(message)s"
+
+#. Translation: IRC system message.
+#: gui/lobby/lobby.js:1289
+#, javascript-format
+msgid "== %(message)s"
+msgstr "== %(message)s"
+
+#: gui/lobby/lobby.js:1315
+#, javascript-format
+msgctxt "lobby private message"
+msgid "(%(private)s) <%(sender)s>"
+msgstr "%(private)s %(sender)s"
+
+#: gui/lobby/lobby.js:1317
+msgid "Private"
+msgstr "Privatno"
+
+#. Translation: Time prefix as shown in the multiplayer lobby (when you enable
+#. it in the options page).
+#: gui/lobby/lobby.js:1356
+#, javascript-format
+msgid "\\[%(time)s]"
+msgstr "\\[%(time)s]"
+
+#. Translation: IRC message format when there is a time prefix.
+#: gui/lobby/lobby.js:1361
+#, javascript-format
+msgid "%(time)s %(message)s"
+msgstr "%(time)s %(message)s"
+
+#: gui/lobby/lobby.js:1400
+#, javascript-format
+msgid "%(nick)s (%(rating)s)"
+msgstr "%(nick)s (%(rating)s)"
+
+#: gui/lobby/lobby.js:1415
+msgctxt "Used for an undefined winning rate"
+msgid "-"
+msgstr "-"
+
+#: gui/lobby/lobby.js:1417
+#, javascript-format
+msgid "%(percentage)s%%"
+msgstr "%(percentage)s%%"
+
+#: gui/lobby/prelobby.js:40
+msgid "Connecting..."
+msgstr "Spajam..."
+
+#: gui/lobby/prelobby.js:62
+msgid "Registering..."
+msgstr "Registriram..."
+
+#: gui/lobby/prelobby.js:92
+msgid "Please enter your username"
+msgstr "Unesite korisničko ime"
+
+#: gui/lobby/prelobby.js:98
+msgid "Usernames can't contain \\[, ], unicode, whitespace, or commas"
+msgstr "Korisnička imena ne mogu sadržavati \\[, ], unicode, razmake niti zareze"
+
+#: gui/lobby/prelobby.js:104
+msgid "Please enter your password"
+msgstr "Unesite lozinku"
+
+#: gui/lobby/prelobby.js:117
+msgid "Please enter your password again"
+msgstr "Molimo Vas da ponovo unesete lozinku"
+
+#: gui/lobby/prelobby.js:123
+msgid "Passwords do not match"
+msgstr "Lozinke se ne podudaraju "
+
+#: gui/lobby/prelobby.js:129
+msgid "Please read the Terms of Service"
+msgstr "Molimo Vas da pročitate Uvjete usluge"
+
+#: gui/lobby/prelobby.js:135
+msgid "Please read the Terms of Use"
+msgstr "Molimo Vas da pročitate Uvjete korištena"
+
+#: gui/lobby/prelobby.js:141
+msgid "Please agree to the Terms of Service and Terms of Use"
+msgstr "Molimo Vas da pristanete na Uvjete Usluge i Uvjete Korištenja."
+
+#: gui/lobby/prelobby.js:166
+msgid ""
+"Unknown error. This usually occurs because the same IP address is not "
+"allowed to register more than one account within one hour."
+msgstr "Nepoznata pogreška. To se obično događa jer je ista IP adresa ne smije registrirati više od jednog računa u roku od jednog sata."
+
+#: gui/lobby/prelobby.js:172
+msgid "Registered"
+msgstr "Prijavljen"
+
+#: gui/lobby/prelobby.js:234
+msgid "Register"
+msgstr "Registracija"
+
+#: gui/lobby/prelobby.js:240 gui/lobby/prelobby.xml:(caption):101
+msgid "Connect"
+msgstr "Spoji"
+
+#: gui/lobby/prelobby.js:250 gui/lobby/prelobby.xml:(caption):78
+msgid "Terms of Service"
+msgstr "Uvjeti  Usluge"
+
+#: gui/lobby/prelobby.js:259 gui/lobby/prelobby.xml:(caption):83
+msgid "Terms of Use"
+msgstr "Uvjeti korištenja "
+
+#: gui/lobby/lobby.xml:(caption):18 gui/lobby/prelobby.xml:(caption):18
+msgid "Multiplayer Lobby"
+msgstr "Multiplayer Lobi"
+
+#: gui/lobby/lobby.xml:(caption):65 gui/lobby/lobby.xml:(caption):345
+msgid "Current Rank:"
+msgstr "Trenutni Poredak:"
+
+#: gui/lobby/lobby.xml:(caption):69 gui/lobby/lobby.xml:(caption):349
+msgid "Highest Rating:"
+msgstr "Najveći Poredak:"
+
+#: gui/lobby/lobby.xml:(caption):73 gui/lobby/lobby.xml:(caption):353
+msgid "Total Games:"
+msgstr "Ukupno Odigrano:"
+
+#: gui/lobby/lobby.xml:(caption):77 gui/lobby/lobby.xml:(caption):357
+msgid "Wins:"
+msgstr "Pobjede:"
+
+#: gui/lobby/lobby.xml:(caption):81 gui/lobby/lobby.xml:(caption):361
+msgid "Losses:"
+msgstr "Porazi:"
+
+#: gui/lobby/lobby.xml:(caption):85 gui/lobby/lobby.xml:(caption):365
+msgid "Win Rate:"
+msgstr "Postotak Pobjeda:"
+
+#: gui/lobby/lobby.xml:(caption):99 gui/lobby/lobby.xml:(caption):293
+msgid "Leaderboard"
+msgstr "Tablica vodećih"
+
+#: gui/lobby/lobby.xml:(caption):105 gui/lobby/lobby.xml:(caption):328
+msgid "User Profile Lookup"
+msgstr "Potraži Korisnički profil"
+
+#: gui/lobby/lobby.xml:(caption):133
+msgid "Map Type:"
+msgstr "Tip Mape:"
+
+#: gui/lobby/lobby.xml:(caption):145
+msgid "Map Size:"
+msgstr "Veličina mape:"
+
+#. Join the game currently selected in the list.
+#: gui/lobby/lobby.xml:(caption):170
+msgid "Join Game"
+msgstr "Pridruži se igri "
+
+#: gui/lobby/lobby.xml:(caption):176
+msgid "Host Game"
+msgstr "Budite domaćin igre"
+
+#: gui/lobby/lobby.xml:(caption):183
+msgid "Main Menu"
+msgstr "Glavni izbornik"
+
+#: gui/lobby/lobby.xml:(caption):261
+msgid "Show only open games"
+msgstr "Prikaži samo igre sa slobodnim pristupom."
+
+#: gui/lobby/lobby.xml:(caption):313 gui/lobby/lobby.xml:(caption):375
+msgid "Back"
+msgstr "Natrag"
+
+#: gui/lobby/lobby.xml:(caption):319
+msgid "Update"
+msgstr "Ažuriranje"
+
+#: gui/lobby/lobby.xml:(caption):331
+msgid "Enter username:"
+msgstr "Unesite korisničko ime"
+
+#: gui/lobby/lobby.xml:(caption):337
+msgid "View Profile"
+msgstr "Pogledaj Profil"
+
+#: gui/lobby/lobby.xml:(caption):370
+msgid "Please enter a player name."
+msgstr "Molimo vas da unesete igračevo ime"
+
+#: gui/lobby/lobby.xml:(heading):41
+msgid "Status"
+msgstr "Status"
+
+#: gui/lobby/lobby.xml:(heading):44 gui/lobby/lobby.xml:(heading):207
+#: gui/lobby/lobby.xml:(heading):303
+msgid "Name"
+msgstr "Ime"
+
+#: gui/lobby/lobby.xml:(heading):47 gui/lobby/lobby.xml:(heading):222
+#: gui/lobby/lobby.xml:(heading):306
+msgid "Rating"
+msgstr "Ocjena"
+
+#: gui/lobby/lobby.xml:(heading):210
+msgid "Map Name"
+msgstr "Naziv mape"
+
+#: gui/lobby/lobby.xml:(heading):213
+msgctxt "map"
+msgid "Size"
+msgstr "Veličina"
+
+#: gui/lobby/lobby.xml:(heading):216
+msgctxt "map"
+msgid "Type"
+msgstr "Tip"
+
+#: gui/lobby/lobby.xml:(heading):219
+msgid "Players"
+msgstr "Igrači"
+
+#: gui/lobby/lobby.xml:(heading):300
+msgid "Rank"
+msgstr "Poredak"
+
+#: gui/lobby/prelobby.xml:(caption):23
+msgid "Create a new account"
+msgstr "Napravite novi račun"
+
+#: gui/lobby/prelobby.xml:(caption):27
+msgid "Login to an existing account"
+msgstr "Prijavite se na postojeći račun"
+
+#: gui/lobby/prelobby.xml:(caption):33
+msgid "Connect to the game lobby"
+msgstr "Spajanje sa predvorjem igre"
+
+#: gui/lobby/prelobby.xml:(caption):36 gui/lobby/prelobby.xml:(caption):63
+msgid "Login:"
+msgstr "Prijava:"
+
+#: gui/lobby/prelobby.xml:(caption):44 gui/lobby/prelobby.xml:(caption):68
+msgid "Password:"
+msgstr "Lozinka:"
+
+#: gui/lobby/prelobby.xml:(caption):59
+msgid "Registration"
+msgstr "Registracija"
+
+#: gui/lobby/prelobby.xml:(caption):73
+msgid "Password again:"
+msgstr "Ponovite lozinku:"
+
+#: gui/lobby/prelobby.xml:(caption):88
+msgid "I have read and agree to the Terms of Service and Terms of Use:"
+msgstr "Pročitao sam i slažem se s Uvjetima Usluge i Uvjetima Korištenja:"
+
+#: gui/lobby/prelobby.xml:(caption):97
+msgid "Cancel"
+msgstr "Odustani"
+
+#: gui/lobby/Terms_of_Service.txt:1
+msgid "0 A.D. Empires Ascendant Multiplayer Lobby Terms of Service"
+msgstr "Uvjeti korištenja 0 A.D. Empires Ascendant Multiplayer"
+
+#: gui/lobby/Terms_of_Service.txt:2 gui/lobby/Terms_of_Use.txt:2
+msgid "Definitions:"
+msgstr "Definicije:"
+
+#: gui/lobby/Terms_of_Service.txt:3 gui/lobby/Terms_of_Use.txt:3
+msgid ""
+" * The \"service\" is the 0 A.D. Empires Ascendant Multiplayer Lobby "
+"provided by Wildfire Games (WFG)."
+msgstr "* \"Usluga\" je 0 A.D. Empires Ascendant Multiplayer lobi ponuđena od strane Wildfire Games (WFG)."
+
+#: gui/lobby/Terms_of_Service.txt:4 gui/lobby/Terms_of_Use.txt:4
+msgid " * \"You\" are the user of the service."
+msgstr "\"Vi\" ste korisnik usluge."
+
+#: gui/lobby/Terms_of_Service.txt:5
+msgid " * \"We\" are the collective of all Wildfire Games (WFG) team members."
+msgstr "\"Mi\" smo svi članovi tima Wildfire Games (WFG)."
+
+#: gui/lobby/Terms_of_Service.txt:6
+msgid ""
+" * \"Rating\" refers to the process of analyzing various user statistics for"
+" the purpose of generating a single comprehensive score."
+msgstr "\"Ocjenjivanje\" se odnosi na proces analiziranja raznih korisničkih statistika s ciljem stvaranja jedinstvenog sveobuhvatnog rezultata."
+
+#: gui/lobby/Terms_of_Service.txt:7
+msgid " * \"Moderate\" refers to the process of enforcing usage policies."
+msgstr "\"Uređivanje\" se odnosi na proces provođenja korisničkih pravila."
+
+#: gui/lobby/Terms_of_Service.txt:8
+msgid "By using the service you agree to:"
+msgstr "Korištenjem usluge pristajete na:"
+
+#: gui/lobby/Terms_of_Service.txt:9
+msgid " 1. Follow all usage policies."
+msgstr "1. Pridržavajte se svih uvjeta korištenja."
+
+#: gui/lobby/Terms_of_Service.txt:10
+msgid ""
+" 2. Allow user identifiable statistics to be gathered for the purposes of "
+"rating, user profiles, and community statistics."
+msgstr "2. Dopustite prikljupljanje korisnički prepoznatljivih statistika za potrebe ocjenjivanja, korisničke profile i statiske zajednice."
+
+#: gui/lobby/Terms_of_Service.txt:11 gui/lobby/Terms_of_Use.txt:18
+msgid "We also reserve the right to:"
+msgstr "Također zdržavamo pravo da:"
+
+#: gui/lobby/Terms_of_Service.txt:12
+msgid " 1. Moderate the service."
+msgstr "1. Moderiramo uslugu."
+
+#: gui/lobby/Terms_of_Service.txt:13
+msgid " 2. Appoint others to moderate the service."
+msgstr "2. Zadužimo druge da moderiraju uslugu."
+
+#: gui/lobby/Terms_of_Service.txt:14
+msgid ""
+" 3. Discontinue or interrupt service at any time with or without prior "
+"announcement."
+msgstr "3. Obustavimo ili prekinemo uslugu u bilo koje vrijeme s ili bez prethodne najave."
+
+#: gui/lobby/Terms_of_Service.txt:15
+msgid " 4. Change the service at any time with or without announcement."
+msgstr "4. Promijenimo uslugu u bilo koje vrijeme s ili bez prethodne najave."
+
+#: gui/lobby/Terms_of_Service.txt:16
+msgid ""
+" 5. Delete any and all service data at any time with or without "
+"announcement."
+msgstr "5. Pobrišemo bilo koje ili sve uslužne podatke u bilo koje doba s ili bez prethodne najave."
+
+#: gui/lobby/Terms_of_Service.txt:17
+msgid ""
+" 6. Collect any or all user identifiable statistics at any time without "
+"consent for:"
+msgstr "6. Prikupimo bilo koje ili sve statistike koje identificiraju korisnika u bilo koje vrijeme bez prethodnog pristanka za:"
+
+#: gui/lobby/Terms_of_Service.txt:18
+msgid ""
+"  a. Private analysis by Wildfire Games (WFG) team members and their "
+"affiliates."
+msgstr "a. Privatnu analizu od strane članova tima Wildfire Games (WFG), kao i njihovih podružnica."
+
+#: gui/lobby/Terms_of_Service.txt:19
+msgid "  b. Anonymized public release by Wildfire Games (WFG) team members."
+msgstr "b. Anonimiziranu javnu objavu od strane članova ekipe  Wildfire Games (WFG)."
+
+#: gui/lobby/Terms_of_Service.txt:20
+msgid ""
+" 7. Change this document in any way; at any time; on the condition that the "
+"user of the service is given adequate notice of the change (the definition "
+"of adequate notice will be determined at the time by a panel of Wildfire "
+"Games (WFG) team members)."
+msgstr "7. Promijenimo ovaj dokument na bilo koji način način; u bilo koje vrijeme; pod uvjetom da je korisniku usluge  dana prikladna obavijest o promjeni ( odefiniciju prikladne  obavijesti će odlučivati, za sada, komisija članova ekipe Wildfire Games (WFG))."
+
+#: gui/lobby/Terms_of_Use.txt:1
+msgid "0 A.D. Empires Ascendant Multiplayer Lobby Terms of Use"
+msgstr "Uvjeti korištenja 0 A.D. Empires Ascendant Multiplayer"
+
+#: gui/lobby/Terms_of_Use.txt:5
+msgid ""
+" * \"Impersonate\" refers to the action in which you attempt to exploit "
+"another's identity for your own purposes."
+msgstr "\"Lažno Predstavljanje\" se odnosi na akcije u kojima pokušavate iskoristit tuđi indetitet u vlastitu korist."
+
+#: gui/lobby/Terms_of_Use.txt:6
+msgid ""
+" * \"Spam\" refers to irrelevant or inappropriate messages sent to a large "
+"number of recipients."
+msgstr "\"Spam\" se odnosi na nerelevantnu i neprikladnu poruku poslanu velikom broju primatelja."
+
+#: gui/lobby/Terms_of_Use.txt:7
+msgid " * \"Rating\" refers to the per-user comprehensive score."
+msgstr "\"Ocjenjivanje\" se odnosi na sveukupni rezulat svakog korisnika."
+
+#: gui/lobby/Terms_of_Use.txt:8
+msgid ""
+" * \"Ranked games\" refers to games in which rating changing statistics are "
+"tracked."
+msgstr "\"Rankirana Igra\" se odnosi na igre u kojima se prate promjenje u vašim rank statistikama."
+
+#: gui/lobby/Terms_of_Use.txt:9
+msgid "You agree to:"
+msgstr "\"Vi se slažete sa slijedećim:\""
+
+#: gui/lobby/Terms_of_Use.txt:10
+msgid ""
+" 1. Only create one account per unique user on the service unless authorized"
+" by a Wildfire Games (WFG) team member."
+msgstr "1. Da ćete napraviti samo jedan račun po korisniku na usluzi osim ako Vam član tima Wildfire Games (WFG) nije dopustio suprotno."
+
+#: gui/lobby/Terms_of_Use.txt:11
+msgid ""
+" 2. Not post profane statements, rude humor, pornographic content, or "
+"discriminatory comments on the service."
+msgstr "2. Da na usluzi nećete objavljivati izjave koje vrijeđaju nečiju religiju, koje sadrže prosti humor, pornografski sadržaj ili komentare koji na bilo koji način diskriminiraju druge."
+
+#: gui/lobby/Terms_of_Use.txt:12
+msgid " 3. Not purposefully demean the worth of others using the service."
+msgstr "3. Da nećete namjerno ponižavati ili vrijeđati druge korisnike usluge."
+
+#: gui/lobby/Terms_of_Use.txt:13
+msgid ""
+" 4. Not use the service to promote specific goods, services, or products."
+msgstr "4. da nećete koristiti uslugu kako bi promovirali određeni proizvod ili neku drugu uslugu."
+
+#: gui/lobby/Terms_of_Use.txt:14
+msgid " 5. Not impersonate other users of the service."
+msgstr "5. Da se nećete pretvarati da ste netko od drugih korisnika usluge."
+
+#: gui/lobby/Terms_of_Use.txt:15
+msgid " 6. Not spam the service."
+msgstr "6. Da nećete spamati uslugu."
+
+#: gui/lobby/Terms_of_Use.txt:16
+msgid ""
+" 7. Not attempt to artificially adjust any user of the service's rating or "
+"any of the statistics which impact it. (Examples of this are, but are not "
+"limited to: cheating in ranked games, reverse engineering the service, and "
+"taking advantage of other users of the service.)"
+msgstr "7.Da nećete pokušati mjenjati ili utjecati na bilo koji faktor igre (Par primjera: Varanje u rankiranim partijama, raditi bili kakav obrnuti inženjering usluga te da nećete utjecati niti ostetiti bilo kojeg korisnika usluge u svoju korist.)"
+
+#: gui/lobby/Terms_of_Use.txt:17
+msgid ""
+" 8. Allow yourself to be removed from the service if at any time a moderator"
+" determines your behavior is not consistent with these rules."
+msgstr "8. Prihvaćate da vas se ukloni iz koristenja usluge, ako u bilo kojem trenutku moderator utvrdi da ste prekršili bilo koje od gore navedenih pravila."
+
+#: gui/lobby/Terms_of_Use.txt:19
+msgid ""
+" 1. Change this document in any way; at any time; on the condition that the "
+"user of the service is given adequate notice of the change (the definition "
+"of adequate notice will be determined at the time by a panel of Wildfire "
+"Games (WFG) team members)."
+msgstr "1. Promijenimo ovaj dokument na bilo koji način način; u bilo koje vrijeme; pod uvjetom da je korisniku usluge  dana prikladna obavijest o promjeni ( Po definiciji adekvatna obavjest će biti odobrena od strane komisije članova Wildfire Games(WFG))."
